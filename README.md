@@ -12,3 +12,13 @@ $ git remote set-url origin https://github.com/phnam181102/JAVA_Ky_Thuat_Lap_Tri
 $ git commit -m ""
 $ git push origin master
 ```
+
+## Delete files in .gitignore
+
+```
+$ git rm -r --cached . 
+$ git add . 
+$ git commit -m 'Xoá các file đã được .gitignore' 
+$ git push origin master
+```
+   
