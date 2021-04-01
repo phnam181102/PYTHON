@@ -18,7 +18,7 @@ $ git push origin master
 ```
 $ git rm -r --cached . 
 $ git add . 
-$ git commit -m 'Xoá các file đã được .gitignore' 
+$ git commit -m '' 
 $ git push origin master
 ```
    
